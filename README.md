@@ -1,5 +1,4 @@
 ## Consultas de apoyo con IA
-Durante el desarrollo usé IA únicamente para resolver algunas dudas puntuales de código y configuración:
 
 1. *"¿Cómo hago en Tailwind para dejar fija la barra de navegación arriba con un poco de desenfoque?"*
 2. *"Tengo un arreglo de bandas en JS, ¿cómo filtro las tarjetas por categoría al presionar un botón?"*
